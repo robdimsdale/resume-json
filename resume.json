@@ -44,8 +44,8 @@
             "endDate": "2014-06-20",
             "summary": "Server-side web developer and sysadmin for design and implementation of a new control system for tape libraries.",
             "highlights": [
-                "Responsible for developing core behavior, architecting code, internal/external API definition and implementation and hardware simulation",
-                "Technology stack consisted of Java EE, Oracle DB, TopLink and Weblogic",
+                "Responsible for developing core behavior, architecting code, internal/external API definition and implementation and hardware simulation.",
+                "Technology stack consisted of Java EE, Oracle DB, TopLink and Weblogic.",
                 "Devised and maintained development environment and build process, including continous integration.",
                 "Role also included educating team members on language and framework features and agile practices."
             ]
@@ -59,7 +59,7 @@
             "summary": "Web developer (mostly server-side, some front-end) for bespoke/custom web applications.",
             "highlights": [
                 "Developed content management system and API for high profile BBC /music/events website using Spring, MySQL, Hibernate and Tomcat. Delivered ahead of schedule.",
-                "Architected, developed and managed a web application to collect and display statistics on phone calls handled by in-house sales team, using Spring, MySQL, Hibernate, Tomcat and Javascript. Delivered on schedule",
+                "Architected, developed and managed a web application to collect and display statistics on phone calls handled by in-house sales team, using Spring, MySQL, Hibernate, Tomcat and Javascript. Delivered on schedule.",
                 "Enhanced major international retailer's online shop website, incorporating Spring, Microsoft SQL, Hibernate and Tomcat. Rapid comprehension of large existing codebase resulted in delivery significantly ahead of schedule."
             ]
         },
